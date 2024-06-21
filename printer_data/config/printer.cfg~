@@ -235,7 +235,7 @@
 # [include config/software/bed_mesh/bed_mesh_120mm.cfg]
 # [include config/software/bed_mesh/bed_mesh_180mm.cfg]
 # [include config/software/bed_mesh/bed_mesh_250mm.cfg]
-[include config/software/bed_mesh/bed_mesh_300mm.cfg]
+# [include config/software/bed_mesh/bed_mesh_300mm.cfg]
 # [include config/software/bed_mesh/bed_mesh_350mm.cfg]
 # [include config/software/bed_mesh/bed_mesh_mk52.cfg]
 
